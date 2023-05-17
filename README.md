@@ -1,13 +1,2 @@
-# vuepress
-
-> 
-
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
-
+# Cera-UI
+A UI Library Based on Vue2 and Typescript by Rakuten Travel Xchange Custom Site Team. [Documentation](https://snowycn324.github.io/cera-ui/).

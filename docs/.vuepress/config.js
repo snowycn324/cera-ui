@@ -1,6 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
+  base: '/cera-ui/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -47,7 +48,7 @@ module.exports = {
       },
       {
         text: 'Github',
-        link: 'https://github.com'
+        link: 'https://github.com/snowycn324/cera-ui'
       }
     ],
     sidebar: {
